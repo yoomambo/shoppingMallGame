@@ -1,5 +1,6 @@
 :root {
   /* color */
+  /* 보통 CSS에서는 색깔을 여기에 한 번에 정의한다. */
   --color-black: #3f454d;
   --color-white: #ffffff;
   --color-blue: #3b88c3;
@@ -11,3 +12,9 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  background-color: var(--color-black);
+  display: flex;
+}
+
