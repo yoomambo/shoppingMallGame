@@ -1,0 +1,17 @@
+div, span {
+    width : 80px;
+    height : 80px;
+    margin : 20px;
+    background : pink;
+  }
+  
+  div {
+    background : red;
+    /* display : inline; */
+    display: inline-block;
+  }
+  
+  span {
+    background : blue;
+    display : block;
+  }
