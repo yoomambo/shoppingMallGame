@@ -4,17 +4,21 @@
 
 2개의 강의를 듣고, 직접 clong coding 하면서 _**Frontend Developer**_ 로 한 걸음 다가가자.
 
-## Reference -1
+## How to study
 
-<img src="img/clonecoding.PNG" width=70%>
-
-1. [쇼핑몰 미니게임 클론 코딩 & 코드 리뷰](https://academy.dream-coding.com/courses/mini-shopping) 에서 쇼핑몰 게임 clone coding을 하면서 html,css,javascript 학습한다.
-
-## Reference -2
+### Basic
 
 <img src="img/Dream_Ellie.PNG" width=80%>
 
-1. [엘리와 함께하는 드림코딩](https://www.youtube.com/playlist?list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y) 기본적으로 부족한 html, css를 유투브 강의로 공부한다.
+1. [_**엘리와 함께하는 드림코딩**_](https://www.youtube.com/playlist?list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y)에서 HTML, CSS 부분 강의들으면서 정리
+
+### Apply
+
+<img src="img/clonecoding.PNG" width=70%>
+
+2. [쇼핑몰 미니게임 클론 코딩 & 코드 리뷰](https://academy.dream-coding.com/courses/mini-shopping) 에서 쇼핑몰 게임 clone coding을 하면서 html,css,javascript 학습한다.
+
+3. 아직 완성하지 못한 ClassPage 완성.
 
 ## Plan
 
